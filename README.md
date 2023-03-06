@@ -1,3 +1,3 @@
 # Autocorrect
 
-Implemented autocorrect functionality by taking advantage of n-grams model
+Implemented autocorrect functionality by taking advantage of N-grams method
